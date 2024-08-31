@@ -87,7 +87,7 @@ const authToken = localStorage.getItem('authToken');
             };
 
             try {
-                const response = await fetch(`http://localhost:4500/users/${id}`, {
+                const response = await fetch(`https://geeksynergy-backend-y2x6.onrender.com/users/${id}`, {
                     method: 'PUT',
                     headers: {
                         'Authorization': ` ${authToken}`,
