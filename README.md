@@ -205,6 +205,23 @@
         cd frontend
 2. Open index.html in your browser to access the registration page.
 
+3. Not logged in user
+![Screenshot (1)](https://github.com/user-attachments/assets/b9c2a5b0-18b2-418c-bcb8-383fc4ab663f)
+
+4. User Registration page
+   ![Screenshot (3)](https://github.com/user-attachments/assets/251f559f-2962-40b3-b26d-9e37e7d30786)
+
+5. User Login page
+![Screenshot (2)](https://github.com/user-attachments/assets/63f3cd08-bddf-4420-a7e6-05d3495dafdb)
+
+6. User List page
+![Screenshot (4)](https://github.com/user-attachments/assets/30422b91-1a23-4da4-822e-288dc33b1861)
+
+7. User Update 
+![Screenshot (5)](https://github.com/user-attachments/assets/b1c13e69-3dd4-426b-89de-0f1ef91b5ae4)
+
+8. User Delete
+![Screenshot (6)](https://github.com/user-attachments/assets/03a6ba62-895e-49b3-a872-5c757dc7f6b3)
 
 ### Front-End Deployed link
 [Live](https://dreamy-nasturtium-417619.netlify.app/)

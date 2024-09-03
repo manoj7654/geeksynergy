@@ -1,7 +1,7 @@
 const authToken = localStorage.getItem('authToken');
 let users = [];
 let currentPage = 1;
-let rowsPerPage = 5; 
+let rowsPerPage = window.innerWidth <= 768 ? 1 : 10;
 
 function checkLoginStatus() {
     if (!authToken) {
